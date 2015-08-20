@@ -58,9 +58,25 @@ table {
     ========================================
   */
 
+.header_text {
+  font-family: Lato-Regular;
+  font-size: 70px;
+  line-height: 140px;
+}
+
 .dialect_rectangles {
   border: 1px solid #979797;
   border-radius: 25px;
+  font-family: Lato-Regular;
+  font-size: 36px;
+  color: #FFFFFF;
+  line-height: 44px;
+  width: 150px;
+  height: 150px;
+  margin: 15px 15px;
+}
+
+.dialect-text {
   font-family: Lato-Regular;
   font-size: 36px;
   color: #FFFFFF;
@@ -133,10 +149,6 @@ table {
 
 /* INFJ: */
 /* INFP: */
-font-family: Lato-Regular;
-font-size: 36px;
-color: #FFFFFF;
-line-height: 44px;
 /* ENFJ: */
 font-family: Lato-Regular;
 font-size: 36px;
